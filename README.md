@@ -65,9 +65,6 @@ Now you can tweak the `GAME SETTINGS` GameObject to change players, objectives, 
 
 ![Game Settinngs GameObject](settings.png)
 
-## Question? Join the discord
-
-Join the [official Flipon discord](https://discord.gg/7jFZ2fC) if you have any question about the game or the code, it's your best chance to get a quick answer. 
 
 ## Contributing
 
